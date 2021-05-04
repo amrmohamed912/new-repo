@@ -172,6 +172,13 @@ right:5px ;
     margin-bottom: 30px;
     font-size: 50px;
 }
+@media (max-width:762px){
+    .landing h1 {
+        color:var(--main-color);
+        margin-bottom: 30px;
+        font-size: 40px;
+    }
+}
 .landing p{
     font-size: 18px;
     line-height: 30px;
